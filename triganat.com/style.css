@@ -449,7 +449,7 @@ a {
 
 }
 iframe:not(:first-child) {
-    margin-left: 140px;
+    margin-left: 10px;
   }
 .header-content{
     color: var(--text);
